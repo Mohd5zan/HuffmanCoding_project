@@ -19,4 +19,4 @@ File Compression:
 
 The program calculates the original and compressed file sizes.
 Displays the compression ratio to indicate efficiency.
-This project demonstrates how Huffman coding efficiently reduces file size, making it useful for text compression in applications like ZIP file creation and network data transmission. 🚀
+This project demonstrates how Huffman coding efficiently reduces file size, making it useful for text compression in applications like ZIP file creation and network data transmission. 
